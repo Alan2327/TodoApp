@@ -41,5 +41,5 @@ fetch('https://jsonplaceholder.typicode.com/todos')
 
 document.getElementById('logout').addEventListener('click', function(event) {
   event.preventDefault();
-  window.location.href = 'login.html';
+  window.location.href = 'index.html';
 });
